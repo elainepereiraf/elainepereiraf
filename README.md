@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 👩‍🏫 Math Teacher.
+* 👩‍🎓 Bachelor of Physics - UFRJ.
+* 👩‍🎓 Degree in Mathematics - UERJ.
