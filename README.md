@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 * 📊 Data Visualization.
 * 🔮 Machine Learning. 
 ### 📫 How to reach me:
-*  [Linkedin]( https://www.linkedin.com/in/elainepereiraf/)
+*  [Linkedin]( www.linkedin.com/in/elainepereiraf )
