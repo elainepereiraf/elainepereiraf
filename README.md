@@ -18,3 +18,11 @@ Here are some ideas to get you started:
 * 👩‍🏫 Math Teacher.
 * 👩‍🎓 Bachelor of Physics - UFRJ.
 * 👩‍🎓 Degree in Mathematics - UERJ.
+
+### 🌱 I’m currently learning 
+* 🐍 Python.
+* 🧮 Power BI.
+* 📊 Data Visualization.
+* 🔮 Machine Learning. 
+### 📫 How to reach me:
+*  [Linkedin]( https://www.linkedin.com/in/elainepereiraf/)
