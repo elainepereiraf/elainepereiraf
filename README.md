@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 👩‍🎓 Bachelor of Physics - UFRJ.
 * 👩‍🎓 Degree in Mathematics - UERJ.
 
-### 🌱 I’m currently learning 
+### 🌱 I’m learning:
 * 🐍 Python.
 * 🧮 Power BI.
 * 📊 Data Visualization.
