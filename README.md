@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 * 👩‍🏫 Math Teacher.
 * 👩‍🎓 Degree in Mathematics - UERJ.
-* 👩‍ Data Science Student at UNIVESP.
+* 👩‍ Data Science Student - UNIVESP.
 
 ### 🌱 I’m learning:
 * 🐍 Python.
