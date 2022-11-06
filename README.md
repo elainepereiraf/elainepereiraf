@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 * 👩‍🏫 Math Teacher.
-* 👩‍🎓 Bachelor of Physics - UFRJ.
 * 👩‍🎓 Degree in Mathematics - UERJ.
+* 👩‍ Data Science Student at UNIVESP.
 
 ### 🌱 I’m learning:
 * 🐍 Python.
