@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### 🌱 I’m learning:
 * 🐍 Python.
 * 🧮 Power BI.
+* 🧮 Google Data Studio.
 * 🗄  SQL.
 * 📊 Data Visualization.
 * 🔮 Machine Learning. 
